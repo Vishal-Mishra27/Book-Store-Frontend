@@ -9,7 +9,9 @@ function Course() {
   useEffect(()=>{
     const getBook=async ()=>{
       try {
-       const res = await axios.get("http://localhost:3000/book");
+       const res = await axios.get(
+         "https://product-management-system-mjfo.onrender.com/book"
+       );
        console.log(res.data);
        setbook(res.data)
       } catch (error) {

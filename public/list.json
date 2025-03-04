@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Story book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $120",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-vector/books-flying-stacked-cartoons_18591-47926.jpg?w=740"
+    },
+    {
+        "id":2,
+        "name":"Drama book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $65",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+    },
+    {
+        "id":3,
+        "name":"Sports book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $90",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-top-it_1253202-19786.jpg?w=740"
+    },
+    {
+        "id":4,
+        "name":"Horrer book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $50",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/modern-school-education-knowledge-concept_3446-665.jpg?t=st=1733160918~exp=1733164518~hmac=9f114cc12d97aed22222c42db2db548bc39ae113bd63804975a6405e28cc7a79&w=740"
+    },
+    {
+        "id":5,
+        "name":"Play book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $60",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-vector/stack-books-with-coffee-cup-top-it_1253202-26878.jpg?w=740"
+    },
+    {
+        "id":6,
+        "name":"Biography",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $80",
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books_23-2149334866.jpg?t=st=1733236978~exp=1733240578~hmac=862c27e62b624f169c1f04093ab43fd923e414f7f049e4dd296e5c4c05b8545a&w=740"
+    },
+    {
+        "id":7,
+        "name":"Drawing book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $20",
+        "category":"paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-stack-books-illustration_23-2149354132.jpg?t=st=1733253832~exp=1733257432~hmac=b1a3de8f00231a467954ae337f50183a445ef3608a0e8b946c16f3bed635bfb7&w=740"
+    },
+    {
+        "id":8,
+        "name":"Art book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $30",
+        "category":"paid",
+        "image":"https://img.freepik.com/premium-vector/front-view-stacked-books-graduation-cap-diploma-education_700339-210.jpg?w=740"
+    },
+    {
+        "id":9,
+        "name":"Mussic book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $10",
+        "category":"paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-stack-books_23-2149323626.jpg?t=st=1733161200~exp=1733164800~hmac=ded8d600d4f8a2e2558823a7a4a065c662e6db6a01023109433a4f5732189d35&w=740"
+    },
+    {
+        "id":10,
+        "name":"Megistic book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $110",
+        "category":"paid",
+        "image":"https://img.freepik.com/premium-vector/stack-books-with-cup-coffee-book-with-book-it_1253202-26005.jpg?w=740"
+    },
+    {
+        "id":11,
+        "name":"Story book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $120",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-vector/books-flying-stacked-cartoons_18591-47926.jpg?w=740"
+    },
+    {
+        "id":12,
+        "name":"Drama book",
+        "title":"A bookstore app transforms shelves into screens, bringing endless stories to your fingertips. It’s a bridge between readers and the worlds they seek, making literature accessible anytime, anywhere.",
+        "price":"price: $65",
+        "category":"free",
+        "image":"https://img.freepik.com/premium-vector/stack-books-with-tree-top_1253202-25854.jpg?w=740"
+    }
+]

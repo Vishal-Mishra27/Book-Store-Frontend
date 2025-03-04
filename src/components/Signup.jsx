@@ -25,7 +25,7 @@ function Signup() {
     console.log(userInfo);
     
     await axios
-      .post(`${BASE_URI}/user/signup`, userInfo)
+      .post(`https://book-store-backned.onrender.com/user/signup`, userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {

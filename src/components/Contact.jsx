@@ -1,10 +1,10 @@
 import React from "react";
-import Navabr from "./Navabr";
+import Navbar from "./Navabr";
 
 function Contact() {
   return (
     <>
-    <Navabr/>
+      <Navbar />
       <div className=" flex items-center justify-center h-screen">
         <div className="w-96">
           <div className="bg-gray-100 p-8 rounded-lg shadow-md">
